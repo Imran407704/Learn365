@@ -10,6 +10,6 @@ Inspired by @harshbhotra
 
 |  Days            | Topic                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Day 1 | SSRF, RedTeam |
+| [Day 1](#Learn365/Resources/Day 1 Task) | SSRF, RedTeam |
 | Day 2 | SSRF, RedTeam, THM Room |
 
