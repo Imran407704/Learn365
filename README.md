@@ -1,7 +1,7 @@
 
-#Learn365
+[#Learn365](https://twitter.com/search?q=%23learn365&src=typeahead_click)
 
-The purpose of #Learn365 collection is to create informational content in multiple codecs and share with the community to allow knowledge advent and studying.
+The purpose of [#Learn365](https://twitter.com/search?q=%23learn365&src=typeahead_click) collection is to create informational content in multiple codecs and share with the community to allow knowledge advent and studying.
 Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 
 
