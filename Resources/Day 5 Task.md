@@ -1,6 +1,8 @@
 🎯 Day 5 Task
 
 ✅ Blind XSS
+
+
 https://infosecwriteups.com/blind-xss-for-beginners-c88e48083071
 
 
