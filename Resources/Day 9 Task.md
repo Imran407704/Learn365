@@ -82,7 +82,8 @@ The Sudo exploit methodology :
  ----------------------------------------------------------------------------------------------
 | local system = my computer                                                                   |
 | EXPL_FILE = Name of that Particular Exploit                                                  |
-| IP:PORT = VPN IP (If you are on tryhackme) / local system IP:jo port se http server bana tha | 
+| IP:PORT = VPN IP (If you are on tryhackme) / local system IP:jo port se http server bana tha 
+| - (hypen) = hypen ke baad command hai :) 
  ----------------------------------------------------------------------------------------------
  
 My Steps for Kernel Exploit 
