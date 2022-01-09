@@ -78,13 +78,16 @@ The Sudo exploit methodology :
 
  Some Keywords : 
  
-| local system = my computer                                                                   |
-| EXPL_FILE = Name of that Particular Exploit                                                  |
-| IP:PORT = VPN IP (If you are on tryhackme) / local system IP:jo port se http server bana tha 
-| - (hypen) = hypen ke baad command hai :) 
+ 
+ |  String            | Meaning                                                                |
+| ----------------- | --------------------------------- |
+| Local system | My Computer |
+| EXPL_FILE | Name of that Particular Exploit (in my case the name of exploit is 37292) |
+| IP:PORT | VPN IP (If you are on tryhackme) / local system IP:jo port se http server bana tha |
+| - (hypen) | hypen ke baad command hai :) |
  
  
-My Steps for Kernel Exploit 
+My Steps for Kernel Exploit :
 
 1. Exploit ko local system me - wget https://www.exploit-db.com/exploits/EXPL_FILE se download kiya  
 2. gcc se complile kiya - gcc 12345.c exploit 
@@ -94,7 +97,9 @@ My Steps for Kernel Exploit
 ROOT User :)
 
 
-My Steps for Sudo Exploit 
+My Steps for Sudo Exploit :
+
+
 1. First check how many programs normal user run with sudo rights - sudo -l
 2. go to https://gtfobins.github.io & search the binary file which have sudo rights  
 
