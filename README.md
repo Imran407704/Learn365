@@ -20,3 +20,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 8 | [DMARC, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%208%20Task.md) |
 | Day 9 | [CSRF, Linux PrivEsc](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%209%20Task.md) |
 | Day 10 | [Clickjacking, Linux PrivEsc](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2010%20Task.md) |
+| Day 11 | [Live Bug Hunting, Linux PrivEsc](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2011%20Task.md) |
