@@ -23,3 +23,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 11 | [Live Bug Hunting, Linux PrivEsc](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2011%20Task.md) |
 | Day 12 | [Bug Bounty Wordlist, Linux PrivEsc](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2012%20Task.md) | 
 | Day 13 |[OWASP Web Application Security Testing, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2013%20Task.md) |
+| Day 14 |[4.1.2 OWASP Fingerprint Web Server, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2014%20Task.md) |
