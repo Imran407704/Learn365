@@ -1,6 +1,18 @@
 🎯 Day 18 Task
 
 
+✅ P1 Bugs WriteUp
+
+
+https://medium.com/@harrmahar/how-i-get-my-first-p1-sensitive-information-disclosure-using-wpscan-c2fba00ac361
+
+
+https://medium.com/@sw33tlie/finding-a-p1-in-one-minute-with-shodan-io-rce-735e08123f52
+
+
+https://medium.com/techiepedia/my-easiest-critical-bug-81c341a0d6d4
+
+
 ✅ 4.1.6 Identify Application Entry Pointss
 
 
