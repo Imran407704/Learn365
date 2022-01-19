@@ -28,3 +28,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 16 |[4.1.4 Enumerate Applications on Webserver](https://github.com/Imran407704/Learn365/tree/main/Resources) |
 | Day 17 |[4.1.5 Review Webpage Content for Information Leakage, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2017%20Task.md) |
 | Day 18 |[4.1.6 Identify Application Entry Points](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2018%20Task.md) |
+| Day 19 |[4.1.7 Map Execution Paths Through Application, Github Recon](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2019%20Task.md) |
