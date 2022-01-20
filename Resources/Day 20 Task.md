@@ -6,6 +6,12 @@
 https://securib.ee/beelog/the-best-bug-bounty-recon-methodology/
 
 
+https://www.bugcrowd.com/resources/webinars/practical-recon-techniques-for-bug-hunters-pen-testers/
+
+
+https://infosecsanyam.medium.com/bug-bounty-methodology-ttp-tactics-techniques-and-procedures-v-2-0-2ccd9d7eb2e2
+
+
 ✅ 4.1.8 Fingerprint Web Application Framework
 Test Objectives
 Fingerprint the components being used by the web applications.
