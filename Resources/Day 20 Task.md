@@ -12,7 +12,15 @@ https://www.bugcrowd.com/resources/webinars/practical-recon-techniques-for-bug-h
 https://infosecsanyam.medium.com/bug-bounty-methodology-ttp-tactics-techniques-and-procedures-v-2-0-2ccd9d7eb2e2
 
 
+✅ TryHackMe Room
+
+
+https://tryhackme.com/room/pythonbasics
+
+
 ✅ 4.1.8 Fingerprint Web Application Framework
+
+
 Test Objectives
 Fingerprint the components being used by the web applications.
 
@@ -25,7 +33,10 @@ How to Test
 5. File extensions
 6. Error messages
 
+
 1. HTTP headers
+
+
 Identifying a web framework by X-Powered-By field in the HTTP response header. Use netcat command -  nc 127.0.0.1 80
 This methodology doesn’t work in 100% of cases,It is possible to easily disable X-Powered-By header by a proper configuration. 
 
@@ -34,34 +45,12 @@ Identifying a web framework by Cookies field in the HTTP request header but it i
 
 3. HTML Source Code
 
-WordPress - <meta name="generator" content="WordPress 3.9.2" />
-
-
-phpBB - <body id="phpbb"
-              
-              
-Mediawiki - <meta name="generator" content="MediaWiki 1.21.9" />
-
-
-Joomla - <meta name="generator" content="Joomla! - Open Source Content Management" />
-
-
-Drupal - <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-
-
-DotNetNuke - DNN Platform - [http://www.dnnsoftware.com](http://www.dnnsoftware.com)
-
 
 4. Specific Files and Folders
-
-
 Use directory brute forcing on a target with known folder and filenames and monitoring HTTP-responses to enumerate server content.
 
 
-5. File Extensions
-
-
-Here are some common web file extensions and associated technologies:
+5. File Extensions : Here are some common web file extensions and associated technologies:
 
 
 .php – PHP
