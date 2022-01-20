@@ -33,21 +33,20 @@ How to Test
 5. File extensions
 6. Error messages
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. HTTP headers - Identifying a web framework by **X-Powered-By** field in the HTTP response header. Use netcat command -  **nc 127.0.0.1 80**
 
-1. HTTP headers
+
+This methodology doesn’t work in 100% of cases,It is possible to easily disable **X-Powered-By** header by a proper configuration. 
 
 
-Identifying a web framework by X-Powered-By field in the HTTP response header. Use netcat command -  nc 127.0.0.1 80
-This methodology doesn’t work in 100% of cases,It is possible to easily disable X-Powered-By header by a proper configuration. 
+2. Cookies - Identifying a web framework by Cookies field in the HTTP request header but it is possible to change the name of cookies
 
-2. Cookies
-Identifying a web framework by Cookies field in the HTTP request header but it is possible to change the name of cookies
 
 3. HTML Source Code
 
 
-4. Specific Files and Folders
-Use directory brute forcing on a target with known folder and filenames and monitoring HTTP-responses to enumerate server content.
+4. Specific Files and Folders - Use directory brute forcing on a target with known folder and filenames and monitoring HTTP-responses to enumerate server content.
 
 
 5. File Extensions : Here are some common web file extensions and associated technologies:
@@ -73,9 +72,8 @@ You can see the Error Messages on the Web page
 
 1. WhatWeb
 2. Wappalyzer
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Github Repo
-https://github.com/Imran407704/Learn365
 
 Note- I am making notes from Official OWASP Website you can check it from here
 https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/ 
