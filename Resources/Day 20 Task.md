@@ -1,5 +1,11 @@
 🎯 Day 20 Task
 
+✅ Recon Techniques
+
+
+https://securib.ee/beelog/the-best-bug-bounty-recon-methodology/
+
+
 ✅ 4.1.8 Fingerprint Web Application Framework
 Test Objectives
 Fingerprint the components being used by the web applications.
