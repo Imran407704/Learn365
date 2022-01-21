@@ -30,3 +30,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 18 |[4.1.6 Identify Application Entry Points](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2018%20Task.md) |
 | Day 19 |[4.1.7 Map Execution Paths Through Application, Github Recon](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2019%20Task.md) |
 | Day 20 |[4.1.8 Fingerprint Web Application Framework, ](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2020%20Task.md) |
+| Day 21 |[4.1.9,10 Map Application Architecture, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2021%20Task.md) | 
