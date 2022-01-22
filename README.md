@@ -31,3 +31,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 19 |[4.1.7 Map Execution Paths Through Application, Github Recon](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2019%20Task.md) |
 | Day 20 |[4.1.8 Fingerprint Web Application Framework,  Recon Techniques](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2020%20Task.md) |
 | Day 21 |[4.1.9,10 Map Application Architecture, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2021%20Task.md) | 
+| Day 22 |[4.2 Configuration and Deployment Management Testing, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2022%20Task.md) |
