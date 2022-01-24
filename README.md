@@ -33,3 +33,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 21 |[4.1.9,10 Map Application Architecture, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2021%20Task.md) | 
 | Day 22 |[4.2 Configuration and Deployment Management Testing, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2022%20Task.md) |
 | Day 23 |[4.2.2 Test Application Platform Configuration, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2023%20Task.md) |
+| Day 24 |[4.2.3 Test File Extensions Handling for Sensitive Information, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2024%20Task.md) |
