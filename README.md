@@ -35,7 +35,7 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 23 |[4.2.2 Test Application Platform Configuration, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2023%20Task.md) |
 | Day 24 |[4.2.3 Test File Extensions Handling for Sensitive Information, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2024%20Task.md) |
 | Day 25 |[4.2.4 Review Old Backup and Unreferenced Files for Sensitive Information, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2025%20Task.md) |
-
+| Day 26 |[4.2.5 Enumerate Infrastructure and Application Admin Interfaces, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2026%20Task.md) |
 
 
 
