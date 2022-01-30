@@ -39,6 +39,6 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 27 |[4.2.6 Test HTTP Methods (with Video), THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2027%20Task.md) |
 | Day 28 |[4.2.7 Test HTTP Strict Transport Security (HSTS), THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2028%20Task.md) |
 | Day 29 |[4.2.8 Test RIA Cross Domain Policy, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2029%20Task.md) |
-
+| Day 30 |[4.2.9 Test File Permission, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2030%20Task.md) | 
 
 
