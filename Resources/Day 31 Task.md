@@ -28,14 +28,14 @@ The first step is to enumerate the victim DNS servers and resource records. Ther
 Using the dig command the tester looks for the following DNS server response messages that warrant further investigation:
 
 
-NXDOMAIN
+**NXDOMAIN**
 
-SERVFAIL
+**SERVFAIL**
 
-REFUSED
+**REFUSED**
 
-no servers could be reached.
-
+**no servers could be reached.
+**
 
 Testing DNS A, CNAME Record Subdomain Takeover
 
