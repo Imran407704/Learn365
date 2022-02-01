@@ -28,6 +28,9 @@ Hindi - Youtube : - https://youtu.be/a-Fg7VVDf14
 English - Youtube : -  https://youtu.be/4_7A8Ikp5Cc 
 
 
+**Note:- eJPT Material are very good for cracking the eJPT exam but I share some additional resource for learning !!!**
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------
 ✅ 4.2.11 Test Cloud Storage
 
