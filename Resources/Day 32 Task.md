@@ -10,9 +10,7 @@ https://tryhackme.com/room/burpsuiterepeater
 ✅ 4.2.11 Test Cloud Storage
 
 
-Test Objectives
-
-Assess that the access control configuration for the storage services is properly in place.
+Test Objectives - Assess that the access control configuration for the storage services is properly in place.
 
 
 How to Test
@@ -20,6 +18,7 @@ How to Test
 First identify the URL to access the data in the storage service, and then consider the following tests:
 
 **read the unauthorized data**
+
 **upload a new arbitrary file**
 
 
@@ -45,7 +44,7 @@ Testing for Amazon S3 Bucket Misconfiguration
 The Amazon S3 bucket URLs follow one of two formats, either virtual host style or path-style.
 
 
-Virtual Hosted Style Access
+**Virtual Hosted Style Access**
 
 ```
 https://bucket-name.s3.Region.amazonaws.com/key-name
@@ -57,7 +56,7 @@ In the following example, my-bucket is the bucket name, us-west-2 is the region,
 https://my-bucket.s3.us-west-2.amazonaws.com/puppy.png
 ```
 
-Path-Style Access
+**Path-Style Access**
 
 ```
 https://s3.Region.amazonaws.com/bucket-name/key-name
@@ -73,20 +72,20 @@ https://s3.us-west-2.amazonaws.com/my-bucket/puppy.jpg
 For some regions, the legacy global endpoint that does not specify a region-specific endpoint can be used. Its format is also either virtual hosted style or path-style.
 
 
-Virtual Hosted Style Access
+**Virtual Hosted Style Access**
 
 ```
 https://bucket-name.s3.amazonaws.com
 ```
 
-Path-Style Access
+**Path-Style Access**
 
 ```
 https://s3.amazonaws.com/bucket-name
 ```
 
 
-Identify Bucket URL
+**Identify Bucket URL**
 
 For black-box testing, S3 URLs can be found in the HTTP messages. The following example shows a bucket URL is sent in the img tag in a HTTP response.
 ```
@@ -95,7 +94,7 @@ For black-box testing, S3 URLs can be found in the HTTP messages. The following 
 ...
 ```
 
-Testing with AWS-CLI
+**Testing with AWS-CLI**
 
 In addition to testing with curl, you can also test with the AWS Command-line tool. In this case s3:// protocol is used.
 
