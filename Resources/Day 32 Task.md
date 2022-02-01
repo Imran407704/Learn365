@@ -6,7 +6,29 @@
 
 https://tryhackme.com/room/burpsuiterepeater
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
+eJPT Journey (with consistency)
 
+🎯 eJPT Day 1 
+
+✅ Introduction
+
+1. The Information Security Field - Study Guide
+3. Cryptography & VPNs - Study Guide
+3. Wireshark Introduction - Study Guide
+
+Wireshark Additional Resources 
+
+Cheat Sheets : - https://www.comparitech.com/net-admin/wireshark-cheat-sheet/
+
+
+Hindi - Youtube : - https://youtu.be/a-Fg7VVDf14
+
+
+English - Youtube : -  https://youtu.be/4_7A8Ikp5Cc 
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
 ✅ 4.2.11 Test Cloud Storage
 
 
