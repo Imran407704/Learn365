@@ -11,7 +11,7 @@ eJPT Journey (with consistency)
 
 🎯 eJPT Day 1 
 
-✅ Introduction
+🔃 Introduction (1-3)
 
 1. The Information Security Field - Study Guide
 3. Cryptography & VPNs - Study Guide
