@@ -41,4 +41,8 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 29 |[4.2.8 Test RIA Cross Domain Policy, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2029%20Task.md) |
 | Day 30 |[4.2.9 Test File Permission, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2030%20Task.md) | 
 | Day 31 |[4.2.10 Test for Subdomain Takeover, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2031%20Task.md) |
-| Day 32 |[4.2.11 Test Cloud Storage, THM Room,](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2032%20Task.md) |
+| Day 32 |[4.2.11 Test Cloud Storage, THM Room, eJPT](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2032%20Task.md) |
+| Day 33 |[4.2.12 Test for Content Security Policy, THM Room, eJPT](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2033%20Task.md) |
+
+
+
