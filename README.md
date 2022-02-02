@@ -15,10 +15,10 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 3 | [SSRF,RedTeam,THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2003%20Task.md) |
 | Day 4 | [Broken Link Hijacking, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2004%20Task.md) |
 | Day 5 | [Blind XSS,THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2005%20Task.md) |
-| Day 6 | [log4j, THM Room](https://github.com/Imran407704/Learn365/tree/main/Resources) |
-| Day 7 | [Password Reset link not expire, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%207%20Task.md) |
-| Day 8 | [DMARC, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%208%20Task.md) |
-| Day 9 | [CSRF, Linux PrivEsc](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%209%20Task.md) |
+| Day 6 | [log4j, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2006%20Task.md) |
+| Day 7 | [Password Reset link not expire, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2007%20Task.md) |
+| Day 8 | [DMARC, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2008%20Task.md) |
+| Day 9 | [CSRF, Linux PrivEsc](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2009%20Task.md) |
 | Day 10 | [Clickjacking, Linux PrivEsc](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2010%20Task.md) |
 | Day 11 | [Live Bug Hunting, Linux PrivEsc](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2011%20Task.md) |
 | Day 12 | [Bug Bounty Wordlist, Linux PrivEsc](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2012%20Task.md) | 
