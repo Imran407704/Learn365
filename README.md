@@ -11,10 +11,10 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 |  Days            | Topic                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Day 1 | [SSRF,RedTeam](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2001%20Task.md) |
-| Day 2 | [SSRF,RedTeam,THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%202%20Task.md) |
-| Day 3 | [SSRF,RedTeam,THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%203%20Task.md) |
-| Day 4 | [Broken Link Hijacking, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%204%20Task.md) |
-| Day 5 | [Blind XSS,THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%205%20Task.md) |
+| Day 2 | [SSRF,RedTeam,THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2002%20Task.md) |
+| Day 3 | [SSRF,RedTeam,THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2003%20Task.md) |
+| Day 4 | [Broken Link Hijacking, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2004%20Task.md) |
+| Day 5 | [Blind XSS,THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2005%20Task.md) |
 | Day 6 | [log4j, THM Room](https://github.com/Imran407704/Learn365/tree/main/Resources) |
 | Day 7 | [Password Reset link not expire, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%207%20Task.md) |
 | Day 8 | [DMARC, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%208%20Task.md) |
