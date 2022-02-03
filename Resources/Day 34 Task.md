@@ -9,6 +9,19 @@
 ✅ eJPT
 
 
+Networking (1-3)
+
+1. Protocols - Study Guide 
+
+2. Internet Protocols (IP) - Study Guide
+
+3. Routing - Study Guide
+
+
+Ports Cheatsheet 
+
+
+
 **Note:- eJPT Material are very good for cracking the eJPT exam but I share some additional resource for learning !!!**
 
 -------------------------------------------------------------------------------------------------------------------------
