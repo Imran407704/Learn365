@@ -43,6 +43,6 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 31 |[4.2.10 Test for Subdomain Takeover, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2031%20Task.md) |
 | Day 32 |[4.2.11 Test Cloud Storage, THM Room, eJPT](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2032%20Task.md) |
 | Day 33 |[4.2.12 Test for Content Security Policy, THM Room, eJPT](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2033%20Task.md) |
-
+| Day 34 |[4.3.1 Test Role Definitions, THM Room, eJPT](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2034%20Task.md) |
 
 
