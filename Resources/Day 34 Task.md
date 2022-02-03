@@ -1,7 +1,13 @@
 🎯 Day 34 Task
 
 
-✅ THM Room
+🔃 THM Room - Linux PrivEsc
+
+
+T 11 - Privilege Escalation: NFS
+
+
+https://tryhackme.com/room/linprivesc
 
 
 -------------------------------------------------------------------------------------------------------------------------
