@@ -21,6 +21,8 @@ Networking (1-3)
 Ports Cheatsheet 
 
 
+http://packetlife.net/media/library/23/common-ports.pdf
+
 
 **Note:- eJPT Material are very good for cracking the eJPT exam but I share some additional resource for learning !!!**
 
