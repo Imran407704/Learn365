@@ -1,6 +1,13 @@
 🎯 Day 35 Task
 
+✅ eJPT
 
+🔃 Networking (4)
+
+
+Link Layer Devices & Protocols - Study Guide
+
+-------------------------------------------------------------------------------------------------------------
 ✅ 4.3.2 Test User Registration Process
 
 
