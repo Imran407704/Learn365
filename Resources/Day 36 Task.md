@@ -37,3 +37,12 @@ Tools
 
 While the most thorough and accurate approach to completing this test is to conduct it manually, HTTP proxy tools could be also useful.
 
+
+Note - I am making notes from Official OWASP Website you can check it from here
+https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/ 
+
+
+I am just Sharing what I learn for help Other's !!!
+
+
+#infosec #learn365 #owasp 
