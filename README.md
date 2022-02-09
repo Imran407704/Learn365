@@ -49,3 +49,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 37 |[4.3.4 Testing for Account Enumeration and Guessable User Account](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2037%20Task.md) | 
 | Day 38 |[4.3.5 Testing for Weak or Unenforced Username Policy, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2038%20Task.md) |
 | Day 39 |[4.4.1 Testing for Credentials Transported over an Encrypted Channel](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2039%20Task.md) |
+| Day 40 |[4.4.2 Testing for Default Credentials](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2040%20Task.md) |
