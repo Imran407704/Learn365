@@ -51,3 +51,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 39 |[4.4.1 Testing for Credentials Transported over an Encrypted Channel](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2039%20Task.md) |
 | Day 40 |[4.4.2 Testing for Default Credentials](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2040%20Task.md) |
 | Day 41 |[CSRF](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2041%20Task.md) |
+| Day 42 |[Open Redirect](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2042%20Task.md) |
