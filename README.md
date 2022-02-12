@@ -52,3 +52,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 40 |[4.4.2 Testing for Default Credentials](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2040%20Task.md) |
 | Day 41 |[CSRF](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2041%20Task.md) |
 | Day 42 |[Open Redirect](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2042%20Task.md) |
+| Day 43 |[log4j](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2043%20Task.md) |
