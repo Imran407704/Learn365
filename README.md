@@ -54,3 +54,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 42 |[Open Redirect](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2042%20Task.md) |
 | Day 43 |[log4j](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2043%20Task.md) |
 | Day 44 |[JWT attacks](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2044%20Task.md) |
+| Day 45 |[Content Discovery](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2045%20Task.md) | 
