@@ -56,3 +56,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 44 |[JWT attacks](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2044%20Task.md) |
 | Day 45 |[Content Discovery](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2045%20Task.md) | 
 | Day 46 |[Idor](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2046%20Task.md) |
+| Day 47 |[Account takeover](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2047%20Task.md) |
