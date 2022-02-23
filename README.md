@@ -63,3 +63,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 51 |[Finding And Exploiting S3 Amazon Buckets For Bug Bounties](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2051%20Task.md) |
 | Day 52 |[Web Cache Poisioning attack](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2052%20Task.md) |
 | Day 53 |[Unique Case for Price Manipulation](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2053%20Task.md) |
+| Day 54 |[Account takeover via the Password Reset Functionality](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2054%20Task.md) |
