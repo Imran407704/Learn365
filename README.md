@@ -65,3 +65,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 53 |[Unique Case for Price Manipulation](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2053%20Task.md) |
 | Day 54 |[Account takeover via the Password Reset Functionality](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2054%20Task.md) |
 | Day 55 |[API Token Hijacking Through Clickjacking, THM Room](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2055%20Task.md)| 
+| Day 56 |[API Exploitation --→ Business Logic Bug](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2056%20Task.md) |
