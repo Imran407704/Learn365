@@ -69,3 +69,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 57 |[Attended Infosec Community Conference on : Android  Static Analysis](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2057%20Task.md) |
 | Day 58 |[Finding bugs on NFT website for fun & Profit by zseano](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2058%20Task.md) |
 | Day 59 |[EXIF Geolocation Data Not Stripped From Uploaded Images](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2059%20Task.md) |
+| Day 60 |[Thick Client Pentesting](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2060%20Task.md) |
