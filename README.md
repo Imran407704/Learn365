@@ -70,3 +70,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 58 |[Finding bugs on NFT website for fun & Profit by zseano](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2058%20Task.md) |
 | Day 59 |[EXIF Geolocation Data Not Stripped From Uploaded Images](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2059%20Task.md) |
 | Day 60 |[Thick Client Pentesting](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2060%20Task.md) |
+| Day 61 |[Conduct a Penetration Test Like a Pro in 6 Phases](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2061%20Task.md) |
