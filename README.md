@@ -72,3 +72,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 60 |[Thick Client Pentesting](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2060%20Task.md) |
 | Day 61 |[Conduct a Penetration Test Like a Pro in 6 Phases](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2061%20Task.md) |
 | Day 62 |[Firewall Penetration Testing](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2062%20Task.md) |
+| Day 63 |[Host Discovery & Vulnerability Scanning With Nessus](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2063%20Task.md) |
