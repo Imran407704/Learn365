@@ -78,3 +78,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 66 |[Bypassing CSRF Protection, 5 Pentesterlab Exercise](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2066%20Task.md) |
 | Day 67 |[HTML Injection](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2067%20Task.md) |
 | Day 68 |[Exploiting SQL Injection, Completed Pentesterlab Unix Badge](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2068%20Task.md) |
+| Day 69 |[A Weird Price Tampering Vulnerability, Security Operations Center (SOC)](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2069%20Task.md) |
