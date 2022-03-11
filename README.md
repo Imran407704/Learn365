@@ -79,3 +79,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 67 |[HTML Injection](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2067%20Task.md) |
 | Day 68 |[Exploiting SQL Injection, Completed Pentesterlab Unix Badge](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2068%20Task.md) |
 | Day 69 |[A Weird Price Tampering Vulnerability, Security Operations Center (SOC)](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2069%20Task.md) |
+| Day 70 |[A Summary of OAuth 2.0 Attack Methods](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2070%20Task.md) |
