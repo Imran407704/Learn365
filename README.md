@@ -81,3 +81,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 69 |[A Weird Price Tampering Vulnerability, Security Operations Center (SOC)](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2069%20Task.md) |
 | Day 70 |[A Summary of OAuth 2.0 Attack Methods](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2070%20Task.md) |
 | Day 71 |[6 Methods to bypass CSRF protection on a web application](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2071%20Task.md) |
+| Day 72 |[Two-factor authentication security testing and possible bypasses](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2072%20Task.md) |
