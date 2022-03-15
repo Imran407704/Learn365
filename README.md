@@ -83,3 +83,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 71 |[6 Methods to bypass CSRF protection on a web application](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2071%20Task.md) |
 | Day 72 |[Two-factor authentication security testing and possible bypasses](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2072%20Task.md) |
 | Day 73 |[10 Types of Web Vulnerabilities that are Often Missed, Understanding BOLA](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2073%20Task.md) |
+| Day 74 |[My First Bug Bounty: SQL Injection, SQL INJECTION VULNERABILITY](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2074%20Task.md) |
