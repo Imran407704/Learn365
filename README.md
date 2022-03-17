@@ -85,3 +85,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 73 |[10 Types of Web Vulnerabilities that are Often Missed, Understanding BOLA](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2073%20Task.md) |
 | Day 74 |[My First Bug Bounty: SQL Injection, SQL INJECTION VULNERABILITY](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2074%20Task.md) |
 | Day 75 |[Dank Writeup On Broken Access Control, Bug bounty tips for broken access control on BurpSuite Part 1](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2075%20Task.md) |
+| Day 76 |[SSRF in PDF Renderer using SVG, Bypassing 2FA using OpenID Misconfiguration](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2076%20Task.md) |
