@@ -87,3 +87,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 75 |[Dank Writeup On Broken Access Control, Bug bounty tips for broken access control on BurpSuite Part 1](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2075%20Task.md) |
 | Day 76 |[SSRF in PDF Renderer using SVG, Bypassing 2FA using OpenID Misconfiguration](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2076%20Task.md) |
 | Day 77 |[Easy IDOR hunting with Autorize?, HOW I hacked thousand of subdomains](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2077%20Task.md) |
+| Day 78 |[A business logic error bug worth 600$, 5 Methods to bypass Authentication (OTP)](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2078%20Task.md) |
