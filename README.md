@@ -89,3 +89,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 77 |[Easy IDOR hunting with Autorize?, HOW I hacked thousand of subdomains](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2077%20Task.md) |
 | Day 78 |[A business logic error bug worth 600$, 5 Methods to bypass Authentication (OTP)](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2078%20Task.md) |
 | Day 79 |[How did I earn €€€€ by breaking the back-end logic of the server, How to find IDOR Privilege escalation](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2078%20Task.md) |
+| Day 80 |[Account Takeover via Web Cache Poisoning based Reflected XSS, A Pentester's Guide to Server Side Template Injection](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2080%20Task.md) |
