@@ -90,3 +90,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 78 |[A business logic error bug worth 600$, 5 Methods to bypass Authentication (OTP)](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2078%20Task.md) |
 | Day 79 |[How did I earn €€€€ by breaking the back-end logic of the server, How to find IDOR Privilege escalation](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2078%20Task.md) |
 | Day 80 |[Account Takeover via Web Cache Poisoning based Reflected XSS, A Pentester's Guide to Server Side Template Injection](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2080%20Task.md) |
+| Day 81 |[Account Takeover: From zero to System Admin using basic skills, Apache Example Servlet leads to $$$$](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2081%20Task.md) |
