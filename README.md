@@ -91,3 +91,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 79 |[How did I earn €€€€ by breaking the back-end logic of the server, How to find IDOR Privilege escalation](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2078%20Task.md) |
 | Day 80 |[Account Takeover via Web Cache Poisoning based Reflected XSS, A Pentester's Guide to Server Side Template Injection](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2080%20Task.md) |
 | Day 81 |[Account Takeover: From zero to System Admin using basic skills, Apache Example Servlet leads to $$$$](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2081%20Task.md) |
+| Day 82 |[The easiest $2500 I got it from bug bounty program, A Pentester’s Guide to File Inclusion](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2082%20Task.md) |
