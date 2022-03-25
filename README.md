@@ -93,3 +93,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 81 |[Account Takeover: From zero to System Admin using basic skills, Apache Example Servlet leads to $$$$](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2081%20Task.md) |
 | Day 82 |[The easiest $2500 I got it from bug bounty program, A Pentester’s Guide to File Inclusion](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2082%20Task.md) |
 | Day 83 |[How I bypassed disable_functions in php to get a remote shell, JWTs - Patterns & Anti-patterns](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2083%20Task.md) |
+| Day 84 |[Finding Your Next Bug: GraphQL, No Rate Limit - 2K$ Bounty](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2084%20Task.md) |
