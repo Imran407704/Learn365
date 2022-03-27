@@ -95,3 +95,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 83 |[How I bypassed disable_functions in php to get a remote shell, JWTs - Patterns & Anti-patterns](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2083%20Task.md) |
 | Day 84 |[Finding Your Next Bug: GraphQL, No Rate Limit - 2K$ Bounty](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2084%20Task.md) |
 | Day 85 |[Facebook email disclosure and account takeover, How to learn anything in Computer Science or Cybersecurity](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2085%20Task.md) |
+| Day 86 |[Hacking banks with race conditions, Exploiting a Race Condition Vulnerability](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2086%20Task.md) |
