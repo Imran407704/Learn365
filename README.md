@@ -100,3 +100,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 88 |[A Journey from IDOR to Account Takeover, Exploiting open redirect - Whitelist bypass using Salesforce environment](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2088%20Task.md) |
 | Day 89 |[Union Based SQL Injection — Bug Hunting, Bypass confirmation to add payment method](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2089%20Task.md) |
 | Day 90 |[Exploiting cross-site scripting in Referer header, XSS via X-Forwarded-Host header](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2090%20Task.md) |
+| Day 91 |[How I bypassed 403 forbidden domain using a simple trick, Deleting account via support ticket](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2091%20Task.md) |
