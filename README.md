@@ -102,3 +102,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 90 |[Exploiting cross-site scripting in Referer header, XSS via X-Forwarded-Host header](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2090%20Task.md) |
 | Day 91 |[How I bypassed 403 forbidden domain using a simple trick, Deleting account via support ticket](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2091%20Task.md) |
 | Day 92 |[Bypassing SSRF Protection to Exfiltrate AWS Metadata from LarkSuite, WordPress < 5.8.3 - Object Injection Vulnerability](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2092%20Task.md) |
+| Day 93 |[0-day Cross Origin Request Forgery vulnerability in Grafana 8.x](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2093%20Task.md) |
