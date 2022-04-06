@@ -105,3 +105,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 93 |[0-day Cross Origin Request Forgery vulnerability in Grafana 8.x](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2093%20Task.md) |
 | Day 94 |[GOT ACCESS TO DOTA 2 ADMIN PANEL BY EXPLOITING IN-GAME FEATURE](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2094%20Task.md) |
 | Day 95 |[How I escalated RFI into LFI](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2095%20Task.md) |
+| Day 96 |[Stumbling upon a new way to exploit authorization bypass in Jira](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2096%20Task.md) |
