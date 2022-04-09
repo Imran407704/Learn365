@@ -108,3 +108,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 96 |[Stumbling upon a new way to exploit authorization bypass in Jira](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2096%20Task.md) |
 | Day 97 |[Clickjacking on Google MyAccount Worth 7,500$](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2097%20Task.md) |
 | Day 98 |[Info Disclosure and SQLi Writeup](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2098%20Task.md) |
+| Day 99 |[CSRF to HTML INJECTION which results in USER CREDENTIALS Stealing](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%2099%20Task.md) |
