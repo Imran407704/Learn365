@@ -112,3 +112,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 100 |[RCE with Flask Jinja Template Injection](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20100%20Task.md) |
 | Day 101 |[How I could have hacked your Uber account](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20101%20Task.md) |
 | Day 102 |[Bug Bounty Live Recon - Linked / JS Discovery!](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20102%20Task.md) |
+| Day 103 |[HTTP Request Smuggling on business.apple.com and Others](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20103%20Task.md) |
