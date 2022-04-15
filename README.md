@@ -114,3 +114,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 102 |[Bug Bounty Live Recon - Linked / JS Discovery!](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20102%20Task.md) |
 | Day 103 |[HTTP Request Smuggling on business.apple.com and Others](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20103%20Task.md) |
 | Day 104 |[SVG SSRFs and saga of bypasses, A Detailed Guide on Cewl](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20104%20Task.md) |
+| Day 105 |[How a YouTube Video lead to pwning a web application via SQL Injection worth $4324 bounty](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20105%20Task.md) |
