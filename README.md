@@ -121,3 +121,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 109 |[Race Condition bypassing team limit](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20109%20Task.md) |
 | Day 110 |[Bypass Apple Corp SSO on Apple Admin Panel](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20110%20Task.md) |
 | Day 111 |[The Unusual Case of Status code- 301 Redirection to AWS Security Credentials Compromise](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20111%20Task.md) |
+| Day 112 |[Find security bugs while you sleep! Using nuclei templates, and more..](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20112%20Task.md) |
