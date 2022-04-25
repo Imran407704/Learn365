@@ -124,3 +124,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 112 |[Find security bugs while you sleep! Using nuclei templates, and more..](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20112%20Task.md) |
 | Day 113 |[Getting access to disabled/hidden features with the help of Burpsuite Match and Replace settings](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20113%20Task.md) |
 | Day 114 |[Finding bugs to trigger Unauthenticated Command Injection in a NETGEAR router (PSV-2022–0044)](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20114%20Task.md) |
+| Day 115 |[How I chained two vulnerabilities to steal credit card details?](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20115%20Task.md) |
