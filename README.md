@@ -127,3 +127,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 115 |[How I chained two vulnerabilities to steal credit card details?](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20115%20Task.md) |
 | Day 116 |[How I Made The BBC Hall Of Fame 3 Times](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20116%20Task.md) |
 | Day 117 |[Improper cookie not expiring after logged out!](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20117%20Task.md) |
+| Day 118 |[Open-Redirects, What you doing wrong when you fail at bug bounties?](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20118%20Task.md) |
