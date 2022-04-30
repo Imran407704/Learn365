@@ -129,3 +129,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 117 |[Improper cookie not expiring after logged out!](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20117%20Task.md) |
 | Day 118 |[Open-Redirects, What you doing wrong when you fail at bug bounties?](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20118%20Task.md) |
 | Day 119 |[Bypassing WAF for $2222](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20119%20Task.md) |
+| Day 120 |[Subdomain Takeover using Mobile??](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20120%20Task.md) |
