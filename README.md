@@ -131,3 +131,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 119 |[Bypassing WAF for $2222](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20119%20Task.md) |
 | Day 120 |[Subdomain Takeover using Mobile??](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20120%20Task.md) |
 | Day 121 |[Fuzzing and credentials leakage..awesome bug hunting writeup](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20121%20Task.md) |
+| Day 122 |[OTP bypass with response manipulation.](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20122%20Task.md) |
