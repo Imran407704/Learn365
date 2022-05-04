@@ -133,3 +133,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 121 |[Fuzzing and credentials leakage..awesome bug hunting writeup](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20121%20Task.md) |
 | Day 122 |[OTP bypass with response manipulation.](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20122%20Task.md) |
 | Day 123 | There is no task Today Enjoy Eid Festival 🥳😊😃 |
+| Day 124 |[An Bug Bounty Hunter’s Guide to IDOR Vulnerabilities](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20124%20Task.md) |
