@@ -135,3 +135,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 123 | There is no task Today Enjoy Eid Festival 🥳😊😃 |
 | Day 124 |[An Bug Bounty Hunter’s Guide to IDOR Vulnerabilities](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20124%20Task.md) |
 | Day 125 |[How I got a lousyT-Shirt from the Dutch Government.](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20125%20Task.md) |
+| Day 126 |[Hack the HAckers](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20126%20Task.md) |
