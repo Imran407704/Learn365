@@ -140,3 +140,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 128 |[Denial of Service through …](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20128%20Task.md) |
 | Day 129 |[How i found a vulnerability that leads to access any users’ sensitive data and got $500](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20129%20Task.md) |
 | Day 130 |[ToolTime - Cloud Recon 1](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20130%20Task.md) |
+| Day 131 |[A Fun SSRF through a Headless Browser](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20131%20Task.md) |
