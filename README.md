@@ -143,3 +143,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 131 |[A Fun SSRF through a Headless Browser](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20131%20Task.md) |
 | Day 132 |[2FA Bypass in PickMyCareer.in](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20132%20Task.md) |
 | Day 133 |[Exploiting Google Maps API keys for profit](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20133%20Task.md) |
+| Day 134 |[Creator Studio’s api endpoint is vulnerable to IDOR, exposes “p40_earnings_usd”:$$$](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20134%20Task.md) |
