@@ -146,3 +146,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 134 |[Creator Studio’s api endpoint is vulnerable to IDOR, exposes “p40_earnings_usd”:$$$](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20134%20Task.md) |
 | Day 135 |[I have 1% chance to hack this company](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20135%20Task.md) |
 | Day 136 |[HTTP Request Smuggling: Part-1 (Concepts)](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20136%20Task.md) |
+| Day 137 |[Create Your Ultimate Bug Bounty Automation Without Nerdy Bash Skills (Part 1)](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20137%20Task.md) |
