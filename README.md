@@ -147,3 +147,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 135 |[I have 1% chance to hack this company](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20135%20Task.md) |
 | Day 136 |[HTTP Request Smuggling: Part-1 (Concepts)](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20136%20Task.md) |
 | Day 137 |[Create Your Ultimate Bug Bounty Automation Without Nerdy Bash Skills (Part 1)](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20137%20Task.md) |
+| Day 138 |[Can analyzing javascript files lead to remote code execution?](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20138%20Task.md) |
