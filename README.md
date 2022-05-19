@@ -148,3 +148,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 136 |[HTTP Request Smuggling: Part-1 (Concepts)](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20136%20Task.md) |
 | Day 137 |[Create Your Ultimate Bug Bounty Automation Without Nerdy Bash Skills (Part 1)](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20137%20Task.md) |
 | Day 138 |[Can analyzing javascript files lead to remote code execution?](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20138%20Task.md) |
+| Day 139 |[My New Discovery In Oracle E-Business Login Panel That Allowed To Access For All Employees Information's & In Some cases Passwords At More Than 1000 Companies](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20139%20Task.md) |
