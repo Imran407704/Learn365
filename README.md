@@ -151,3 +151,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 139 |[My New Discovery In Oracle E-Business Login Panel That Allowed To Access For All Employees Information's & In Some cases Passwords At More Than 1000 Companies](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20139%20Task.md) |
 | Day 140 |[Origin IP found, WAF Cloudflare Bypass](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20140%20Task.md) |
 | Day 141 |[MFA (Multi-Factor Authentication)](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20141%20Task.md) |
+| Day 142 |[Vulnerability In PayPal worth 200000$ bounty, Attacker can Steal Your Balance by One-Click](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20142%20Task.md) |
