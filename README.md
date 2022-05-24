@@ -153,3 +153,4 @@ Inspired by [@harshbhotra](https://twitter.com/harshbothra_)
 | Day 141 |[MFA (Multi-Factor Authentication)](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20141%20Task.md) |
 | Day 142 |[Vulnerability In PayPal worth 200000$ bounty, Attacker can Steal Your Balance by One-Click](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20142%20Task.md) |
 | Day 143 |[Does ms15–034 still exist today ?](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20143%20Task.md) |
+| Day 144 |[How I managed to take over any account visits my profile with Stored XSS](https://github.com/Imran407704/Learn365/blob/main/Resources/Day%20144%20Task.md) |
